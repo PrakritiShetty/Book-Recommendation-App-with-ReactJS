@@ -1,2 +1,2 @@
-# Book Recommendation App with ReactJS
+#Symbol Interpreter App with ReactJS
  ReactJS Implementation Trial
